@@ -41,7 +41,7 @@ To successfully run the program, the Adafruit Motor Shield library must be insta
 5.	Ensure the library is correctly added by checking for the <AFMotor.h> header file in your code.
 
 Programming
-•	The control logic was implemented using the Adafruit Motor Shield library in Arduino IDE.
+•	The control logic was implemented using the Adafruit Motor Shield library in Arduino IDE
 •	Motors were programmed to: 
 o	Move forward for 10 seconds.
 o	Move backward for 10 seconds.
